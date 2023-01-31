@@ -29,6 +29,7 @@ const techsSrc: string[] = [
   'prettier-icon.svg',
   'jest-icon.svg',
   'testinglibrary-icon.svg',
+  'python-icon.svg',
   'django-icon.svg',
   'graphql-icon.svg',
   'restapi-icon.svg',
@@ -39,6 +40,7 @@ const techsSrc: string[] = [
   'nginx-icon.svg',
   'mysql-icon.svg',
   'raspberrypi-icon.svg',
+  'java-icon.svg',
 ];
 
 const initTechs = (): TechType[] => {
